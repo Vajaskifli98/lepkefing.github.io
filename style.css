@@ -1,0 +1,13 @@
+body{
+    background-color: lightgray;
+}
+
+div{
+    width: 86%;
+    min-height: 600px;
+    background-color: lightgray;
+}
+
+h1{
+    color: blanchedalmond;
+    text-transform: uppercase;}
